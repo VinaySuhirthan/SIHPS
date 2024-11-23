@@ -22,8 +22,14 @@ Government of Gujarat
 
 ## Proposed Solution / Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/b7c4e336-3111-4762-8d2b-97a1a7266447)
+
+
 
 ## Use Cases
+
+![image](https://github.com/user-attachments/assets/1064d4bd-8896-476f-9684-d452b2500ee0)
+
 
 
 ## Technology Stack
